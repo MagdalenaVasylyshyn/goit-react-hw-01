@@ -1,0 +1,23 @@
+.transactionTable {
+    /* display: flex; */
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 480px;
+    border: 1px solid #000;
+}
+
+.transactionHead {
+    font-size: 20px;
+    color: white;
+    background-color: #000;
+}
+
+.transactionBody {
+    background-color: gray;
+}
+
+.transactionText {
+    font-size: 16px;
+    text-align: center;
+}
